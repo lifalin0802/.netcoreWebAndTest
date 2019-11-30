@@ -1,0 +1,94 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\lynnfli\\source\\repos\\UnitTestProject1\\UnitTestProject1\\UnitTestProject1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lynnfli\\source\\repos\\UnitTestProject1\\UnitTestProject1\\UnitTestProject1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lynnfli\\source\\repos\\UnitTestProject1\\UnitTestProject1\\UnitTestProject1.csproj",
+        "projectName": "UnitTestProject1",
+        "projectPath": "C:\\Users\\lynnfli\\source\\repos\\UnitTestProject1\\UnitTestProject1\\UnitTestProject1.csproj",
+        "packagesPath": "C:\\Users\\lynnfli\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lynnfli\\source\\repos\\UnitTestProject1\\UnitTestProject1\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\lynnfli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://seismic.jfrog.io/seismic/api/nuget/nuget": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "dependencies": {
+            "IdentityModel.OidcClient": {
+              "target": "Package",
+              "version": "[2.9.0, )"
+            },
+            "Microsoft.Extensions.Configuration.EnvironmentVariables": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "SpecFlow": {
+              "target": "Package",
+              "version": "[3.0.225, )"
+            },
+            "SpecFlow.Tools.MsBuild.Generation": {
+              "target": "Package",
+              "version": "[3.0.225, )"
+            },
+            "SpecFlow.xUnit": {
+              "target": "Package",
+              "version": "[3.0.225, )"
+            },
+            "Xunit.SkippableFact": {
+              "target": "Package",
+              "version": "[1.3.12, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
